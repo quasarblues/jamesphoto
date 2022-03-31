@@ -6,7 +6,11 @@ body {
 }
 
 section {
-    margin-bottom: 50px;
+    margin-bottom: 75px;
+}
+
+#about {
+    margin-bottom: 15px;
 }
 
 #mainNav {
@@ -16,8 +20,13 @@ section {
 
 
 #mainNav .navbar-brand {
-    font-size: 2rem;
-    color: #f5cb5c;
+    font-size: 2.4rem;
+    color: #00CBFF;
+}
+
+#mainNav .nav-link:hover {
+    color: #00CBFF;
+    transition: color 500ms;
 }
 
 #portfolio {
@@ -25,5 +34,13 @@ section {
     color: #04050c;
 }
 
+#james {
+    color: #00CBFF;
+}
 
+@media (max-width: 768px) {
+    #showcase {
+        margin-bottom: 0px;
+    }
+}
 
