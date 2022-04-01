@@ -2,16 +2,12 @@ body {
     font-family: 'Raleway', sans-serif;
     background-color: #01030a;
     color: #e8eddf;
-    font-size: 1.3rem;
 }
 
 section {
     margin-bottom: 75px;
 }
 
-#about {
-    margin-bottom: 15px;
-}
 
 #mainNav {
     font-size: 1.5rem;
@@ -29,28 +25,23 @@ section {
     transition: color 500ms;
 }
 
-#portfolio {
-    background-color: #979999;
-    color: #04050c;
+.description {
+    background-color: #e8eddf;
+    color: #01030a;
+    width: 65%;
+    border-radius: 25px;
+    font-size: 1.3rem;
+    margin-top: 30px;
 }
 
-#james {
+#return_arrow {
     color: #00CBFF;
-}
-
-.photo_link {
-    text-decoration: none;
-    color: black;
-}
-
-.photo_link:hover {
-    color: #00CBFF;
-    transition: color 500ms;
 }
 
 @media (max-width: 768px) {
-    #showcase {
-        margin-bottom: 0px;
+    .description {
+        width: 95%;
     }
 }
+
 
