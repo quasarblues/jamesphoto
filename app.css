@@ -1,5 +1,5 @@
 body {
-    font-family: 'Raleway', sans-serif;
+    
     background-color: #01030a;
     color: #e8eddf;
     font-size: 1.3rem;
@@ -29,18 +29,20 @@ section {
     transition: color 500ms;
 }
 
-#portfolio {
-    background-color: #979999;
+#about {
+    background-color: #b2b8b8;
     color: #04050c;
+    border-radius: 25px;
 }
 
-#james {
+/* #james {
     color: #00CBFF;
-}
+} */
 
 .photo_link {
     text-decoration: none;
-    color: black;
+    color: #e8eddf;
+    font-family: 'Raleway', sans-serif;
 }
 
 .photo_link:hover {
