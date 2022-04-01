@@ -1,5 +1,4 @@
 body {
-    
     background-color: #01030a;
     color: #e8eddf;
     font-size: 1.3rem;
@@ -9,9 +8,6 @@ section {
     margin-bottom: 75px;
 }
 
-#about {
-    margin-bottom: 15px;
-}
 
 #mainNav {
     font-size: 1.5rem;
@@ -30,14 +26,13 @@ section {
 }
 
 #about {
-    background-color: #b2b8b8;
-    color: #04050c;
+    background-color: #e8eddf;
+    color: #01030a;
     border-radius: 25px;
+    margin-bottom: 15px;
+    font-size: 1.5rem;
 }
 
-/* #james {
-    color: #00CBFF;
-} */
 
 .photo_link {
     text-decoration: none;
@@ -55,4 +50,3 @@ section {
         margin-bottom: 0px;
     }
 }
-
