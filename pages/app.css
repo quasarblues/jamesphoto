@@ -43,11 +43,15 @@ body {
 
 .description {
     color: #e8eddf;
-    border: 1px solid #e8eddf;
+    /* border: 1px solid #e8eddf; */
     padding: 10px;
     width: 65%;
     font-size: 1.3rem;
-    margin-top: 30px;
+    margin-top: 20px;
+}
+
+.description_title {
+    color: #00CBFF;
 }
 
 #about {
