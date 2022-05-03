@@ -54,6 +54,11 @@ body {
     color: #00CBFF;
 }
 
+#insta_link {
+    color: #00CBFF;
+    font-size: 2.1rem;
+}
+
 #about {
     margin-bottom: 15px;
     font-size: 1.5rem;
