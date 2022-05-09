@@ -4,10 +4,6 @@ body {
     color: #e8eddf;
 }
 
-/* section {
-    margin-bottom: 75px;
-} */
-
 
 #mainNav {
     font-size: 1.7rem;
@@ -75,5 +71,11 @@ body {
 @media (max-width: 768px) {
     .description {
         width: 95%;
+    }
+}
+
+@media (max-width: 768px) {
+    #noize {
+        font-size: 1.25rem;
     }
 }

@@ -1,6 +1,6 @@
 body {
     background-image: url("imgs/homepage8.webp");
-    background-size: cover;
+    background-size: 100% 100%;
     font-size: 1.3rem;
 }
 
