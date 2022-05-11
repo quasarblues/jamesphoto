@@ -1,6 +1,7 @@
 body {
-    background-image: url("imgs/homepage8.webp");
-    background-size: 100% 100%;
+    background-image: url("imgs/background_image.jpg");
+    background-size: cover;
+    background-position: bottom 75% center;
     font-size: 1.3rem;
 }
 
@@ -10,8 +11,8 @@ section {
 
 
 #mainNav {
-    font-size: 1.7rem;
-    text-shadow: 2px 2px 2px rgba(0, 0, 0, .8);
+    font-size: 1.75rem;
+    text-shadow: 2px 2.5px 2px rgba(0, 0, 0, 0.966);
 }
 
 
@@ -45,7 +46,7 @@ section {
     min-height: 100vh;
     position: relative;
     color: white;
-    text-shadow: 2px 2px 2px rgba(0, 0, 0, .8);
+    text-shadow: 2px 2.5px 2px rgba(0, 0, 0, 0.917);
 }
 
 h1 {
