@@ -2,7 +2,7 @@ body {
     font-family: 'Raleway', sans-serif;
     background-color: #01030a;
     color: #e8eddf;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 
@@ -68,6 +68,11 @@ body {
 #return_arrow {
     color: #00CBFF;
 }
+
+/* .img-size {
+    height: auto;
+    width: 50%;
+} */
 
 @media (max-width: 768px) {
     .description {
