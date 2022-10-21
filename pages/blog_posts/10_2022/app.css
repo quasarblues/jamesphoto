@@ -4,6 +4,9 @@ body {
     color: #e8eddf;
 }
 
+img {
+    width: 100vh;
+}
 
 #mainNav {
     font-size: 1.7rem;
