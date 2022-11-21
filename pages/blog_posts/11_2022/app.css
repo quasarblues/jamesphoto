@@ -1,0 +1,89 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #01030a;
+    color: #e8eddf;
+}
+
+img {
+    width: 70vw;
+}
+
+
+#mainNav {
+    font-size: 1.7rem;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, .8);
+}
+
+
+#mainNav .navbar-brand {
+    font-size: 1.8rem;
+    color: #00CBFF;
+}
+
+#mainNav .nav-link {
+    color: white;
+}
+
+#mainNav .nav-link:hover {
+    color: #00CBFF;
+    transition: color 500ms;
+}
+
+.photo_link {
+    text-decoration: none;
+    color: #e8eddf;
+    font-size: 1.4rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.photo_link:hover {
+    color: #00CBFF;
+    transition: color 500ms;
+}
+
+.description {
+    color: #e8eddf;
+    /* border: 1px solid #e8eddf; */
+    padding: 10px;
+    width: 65%;
+    font-size: 1.45rem;
+    margin-top: 20px;
+}
+
+.description_title {
+    color: #00CBFF;
+}
+
+#insta_link {
+    color: #00CBFF;
+    font-size: 2.1rem;
+}
+
+#about {
+    margin-bottom: 15px;
+    font-size: 1.5rem;
+}
+
+#noize {
+    font-size: 1.5rem;
+}
+
+#return_arrow {
+    color: #00CBFF;
+}
+
+@media (max-width: 768px) {
+    .description {
+        width: 95%;
+    }
+}
+
+@media (max-width: 768px) {
+    #noize {
+        font-size: 1.25rem;
+    }
+
+    img {
+        width: 100vh;
+    }
+}
